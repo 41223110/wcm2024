@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-06-17T15:15:55-00:00</lastmod>
+<lastmod>2024-06-17T15:19:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-06-17T15:15:55-00:00</lastmod>
+<lastmod>2024-06-17T15:19:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-06-17T15:15:55-00:00</lastmod>
+<lastmod>2024-06-17T15:19:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-06-17T15:15:55-00:00</lastmod>
+<lastmod>2024-06-17T15:19:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,6 +41,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./2024-Spring-w1-blog-tutorial.html</loc>
 <lastmod>2024-06-17T14:56:35+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./codespaces.html</loc>
+<lastmod>2024-06-17T15:18:44+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -70,6 +77,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>./w6.html</loc>
 <lastmod>2024-06-17T15:07:37+08:00</lastmod>
 <changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/codespaces.html</loc>
+<lastmod>2024-06-17T15:18:44+08:06</lastmod>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -110,14 +124,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-06-17T15:15:22+08:06</lastmod>
+<lastmod>2024-06-17T15:18:44+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/kmol.html</loc>
-<lastmod>2024-06-17T15:15:22+08:06</lastmod>
+<lastmod>2024-06-17T15:18:44+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
