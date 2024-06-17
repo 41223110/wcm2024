@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-17T15:26:19+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T14:56:35+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-17T15:27:43+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T14:56:35+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -346,4 +346,6 @@ Brython 的工作原理:&lt;/p&gt;
 運行環境：Python是一種通用的程式語言，主要在後端編程、軟體開發、數據分析等領域中使用，通常在電腦的本地環境或者服務器上運行。Brython是一個專門用於在瀏覽器中運行Python代碼的工具，它使得開發者能夠在前端開發中使用Python語言，而無需學習JavaScript。&lt;/p&gt;
 &lt;p&gt;用途：Python通常用於後端開發、數據分析、機器學習、科學計算等領域。Brython主要用於前端開發，可以用於網頁應用程序、網頁遊戲等前端項目。&lt;/p&gt;
 &lt;p&gt;適用性：Python適合於需要處理複雜邏輯、大量數據處理等後端任務。Brython適用於開發交互式網頁、複雜的用戶界面以及需要與用戶直接交互的前端項目。&lt;/p&gt;
-&lt;p&gt;總的來說，Python和Brython是兩個不同的工具，分別用於不同的開發場景。Python通常用於後端開發和數據處理，而Brython則是一個適合於前端開發的選擇，讓開發者可以使用他們熟悉的Python語言來進行網頁前端開發。&lt;/p&gt;</content><category term="期中"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;總的來說，Python和Brython是兩個不同的工具，分別用於不同的開發場景。Python通常用於後端開發和數據處理，而Brython則是一個適合於前端開發的選擇，讓開發者可以使用他們熟悉的Python語言來進行網頁前端開發。&lt;/p&gt;</content><category term="期中"></category><category term="網誌編寫"></category></entry><entry><title>期末</title><link href="./%E6%9C%9F%E6%9C%AB.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T15:27:43+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./期末.html</id><content type="html">&lt;h2&gt;期末&lt;/h2&gt;
+&lt;p&gt;只要點擊下方連結，就能遊玩-數讀&lt;/p&gt;
+&lt;p&gt;http://120.113.99.38:8000/&lt;/p&gt;</content><category term="期末"></category><category term="網誌編寫"></category></entry></feed>
