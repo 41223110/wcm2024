@@ -16,10 +16,11 @@ Brython 的特點：
  Brython 與大多數現代網路瀏覽器相容，包括 Chrome、Firefox 和 Safari。
 它支援同步和異步程式設計。
  Brython 提供了一種使用 Python 編寫互動式 Web 應用程式的簡單直觀的方法。
+
 Brython 的工作原理:
 
-
 Brython 的工作原理是將 Python 代碼翻譯成可以在 Web 瀏覽器中執行的 Javascript 代碼。當開發人員使用 Brython 編寫 Python 代碼時，該代碼首先由 Brython 的編譯器翻譯成 Javascript 代碼。然後，生成的 Javascript 代碼在瀏覽器中執行，允許 Python 代碼像本機 Javascript 一樣運行。
+
 使用Brython 的優勢:
 
 Python 是一種流行且功能強大的語言，易於學習和使用。已經熟悉 Python 的開發人員可以使用 Brython 編寫用戶端 Web 應用程式，而無需學習新的程式設計語言。
@@ -28,6 +29,7 @@ Python 是一種流行且功能強大的語言，易於學習和使用。已經�
  Brython 與大多數現代 Web 瀏覽器相容，因此開發人員可以編寫可供廣泛使用者使用的應用程式。
 
  和Python的區別
+
 運行環境：Python是一種通用的程式語言，主要在後端編程、軟體開發、數據分析等領域中使用，通常在電腦的本地環境或者服務器上運行。Brython是一個專門用於在瀏覽器中運行Python代碼的工具，它使得開發者能夠在前端開發中使用Python語言，而無需學習JavaScript。
 
 用途：Python通常用於後端開發、數據分析、機器學習、科學計算等領域。Brython主要用於前端開發，可以用於網頁應用程序、網頁遊戲等前端項目。
