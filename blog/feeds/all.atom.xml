@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-17T15:22:33+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T14:56:35+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-17T15:26:19+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T14:56:35+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -326,4 +326,24 @@ git submodule add github倉儲網址.git 學號&lt;/p&gt;</content><category ter
 &lt;p&gt;遠程倉庫協作：Git 可以與遠程倉庫（如 GitHub、GitLab、Bitbucket 等）集成，使得多個開發者可以協作開發項目。他們可以推送（push）自己的更改到遠程倉庫，並拉取（pull）其他人的更改，從而實現協作開發。&lt;/p&gt;
 &lt;p&gt;代碼審查：Git 的分支和提交歷史使得進行代碼審查變得更加容易。團隊成員可以通過查看提交歷史和比較不同分支之間的差異來進行代碼審查，從而確保代碼質量和一致性。&lt;/p&gt;
 &lt;p&gt;備份和恢覆：Git 可以作為項目的備份工具，因為它可以存儲項目的完整歷史記錄。即使出現意外情況，例如誤刪文件，也可以通過 Git 來恢覆文件到之前的狀態。&lt;/p&gt;
-&lt;p&gt;綜上所述，Git 是一個強大的工具，可以幫助專業人士解決內容管理問題，提高團隊的生產效率和代碼質量。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;綜上所述，Git 是一個強大的工具，可以幫助專業人士解決內容管理問題，提高團隊的生產效率和代碼質量。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>期中</title><link href="./%E6%9C%9F%E4%B8%AD.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T15:26:19+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./期中.html</id><summary type="html">&lt;h2&gt;期中&lt;/h2&gt;
+&lt;p&gt;Brython 是什麼：&lt;/p&gt;
+&lt;p&gt;Brython 是一種 Python 在瀏覽器端的實現，它允許你在瀏覽器中直接運行 Python 代碼。這意味著你可以使用 Python 來編寫客戶 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;期中&lt;/h2&gt;
+&lt;p&gt;Brython 是什麼：&lt;/p&gt;
+&lt;p&gt;Brython 是一種 Python 在瀏覽器端的實現，它允許你在瀏覽器中直接運行 Python 代碼。這意味著你可以使用 Python 來編寫客戶端的 Web 應用程序，而無需使用 JavaScript。Brython 實際上是一個 Python 解釋器，它被編譯成 JavaScript 並在瀏覽器中執行。這使得開發者可以利用 Python 的簡潔和易用性來構建交互式的 Web 應用程序，同時無需擔心客戶端與伺服器端之間的語言差異。
+Brython 的特點：&lt;/p&gt;
+&lt;p&gt;Brython 與大多數現代網路瀏覽器相容，包括 Chrome、Firefox 和 Safari。
+它支援同步和異步程式設計。
+ Brython 提供了一種使用 Python 編寫互動式 Web 應用程式的簡單直觀的方法。
+Brython 的工作原理:&lt;/p&gt;
+&lt;p&gt;Brython 的工作原理是將 Python 代碼翻譯成可以在 Web 瀏覽器中執行的 Javascript 代碼。當開發人員使用 Brython 編寫 Python 代碼時，該代碼首先由 Brython 的編譯器翻譯成 Javascript 代碼。然後，生成的 Javascript 代碼在瀏覽器中執行，允許 Python 代碼像本機 Javascript 一樣運行。
+使用Brython 的優勢:&lt;/p&gt;
+&lt;p&gt;Python 是一種流行且功能強大的語言，易於學習和使用。已經熟悉 Python 的開發人員可以使用 Brython 編寫用戶端 Web 應用程式，而無需學習新的程式設計語言。
+ Brython 消除了開發人員為了編寫前端 Web 應用程式而學習 Javascript、HTML 和 CSS 的需要。這可以節省時間並簡化開發過程。
+ Brython 使使用 Python 編寫互動式 Web 應用程式變得容易，這對於開發基於 Web 的遊戲、教育應用程式等非常有用。
+ Brython 與大多數現代 Web 瀏覽器相容，因此開發人員可以編寫可供廣泛使用者使用的應用程式。&lt;/p&gt;
+&lt;p&gt;和Python的區別
+運行環境：Python是一種通用的程式語言，主要在後端編程、軟體開發、數據分析等領域中使用，通常在電腦的本地環境或者服務器上運行。Brython是一個專門用於在瀏覽器中運行Python代碼的工具，它使得開發者能夠在前端開發中使用Python語言，而無需學習JavaScript。&lt;/p&gt;
+&lt;p&gt;用途：Python通常用於後端開發、數據分析、機器學習、科學計算等領域。Brython主要用於前端開發，可以用於網頁應用程序、網頁遊戲等前端項目。&lt;/p&gt;
+&lt;p&gt;適用性：Python適合於需要處理複雜邏輯、大量數據處理等後端任務。Brython適用於開發交互式網頁、複雜的用戶界面以及需要與用戶直接交互的前端項目。&lt;/p&gt;
+&lt;p&gt;總的來說，Python和Brython是兩個不同的工具，分別用於不同的開發場景。Python通常用於後端開發和數據處理，而Brython則是一個適合於前端開發的選擇，讓開發者可以使用他們熟悉的Python語言來進行網頁前端開發。&lt;/p&gt;</content><category term="期中"></category><category term="網誌編寫"></category></entry></feed>
