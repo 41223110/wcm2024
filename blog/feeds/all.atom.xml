@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-17T15:03:11+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T14:56:35+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-17T15:07:37+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T14:56:35+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -267,4 +267,25 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;p&gt;建立個人課程網站&lt;/p&gt;
 &lt;p&gt;必須自行建立 Github 帳號&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>w3</title><link href="./w3.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T15:03:11+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./w3.html</id><content type="html">&lt;h2&gt;w3&lt;/h2&gt;
 &lt;p&gt;個人倉儲納為分組倉儲的子模組
-git submodule add github倉儲網址.git 學號&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry></feed>
+git submodule add github倉儲網址.git 學號&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>w6</title><link href="./w6.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T15:07:37+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./w6.html</id><summary type="html">&lt;h2&gt;w6&lt;/h2&gt;
+&lt;p&gt;Git 是一個分布式版本控制系統，用於跟蹤文件的變化和協作開發。它由 Linus Torvalds 於 2005 年創建，最初是為了幫助管理 Linux 內核的 …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;w6&lt;/h2&gt;
+&lt;p&gt;Git 是一個分布式版本控制系統，用於跟蹤文件的變化和協作開發。它由 Linus Torvalds 於 2005 年創建，最初是為了幫助管理 Linux 內核的開發。以下是 Git 的發展歷史以及相關創作者的簡歷：&lt;/p&gt;
+&lt;p&gt;2005 年：Linus Torvalds 創建了 Git，並在 Linux 內核開發中開始使用它。&lt;/p&gt;
+&lt;p&gt;2005 年至今：Git 經歷了持續的發展和改進，吸引了全球範圍內的開發者和企業的廣泛采用。&lt;/p&gt;
+&lt;p&gt;Git 的關鍵版本和裏程碑：&lt;/p&gt;
+&lt;p&gt;2005 年：Git 1.0 發布。
+2007 年：GitHub 成立，成為 Git 托管服務的主要平台之一，推動了 Git 的流行。
+2008 年：Git 1.5 發布，引入了許多新功能和改進。
+2013 年：Git 1.8 發布，引入了子模塊的支持等功能。
+2016 年：Git 2.0 發布，帶來了性能和用戶體驗方面的改進。
+2018 年：Git 2.18 發布，引入了一些新特性和改進。
+2020 年：Git 2.28 發布，繼續改進性能和用戶體驗。
+創作者簡歷：&lt;/p&gt;
+&lt;p&gt;Linus Torvalds：芬蘭計算機程序員，Linux 內核的創建者和 Git 的創作者。他是開源軟件社區的重要人物之一，對計算機科學和開源社區產生了巨大影響。
+使用 Git 的專業人士可以利用它來解決內容管理問題的各種方面，包括但不限於：&lt;/p&gt;
+&lt;p&gt;版本控制：Git 可以跟蹤文件的變化，使團隊成員能夠協作開發，並確保每個人都使用最新的代碼版本。這有助於避免沖突和混亂，同時也可以回溯歷史版本。&lt;/p&gt;
+&lt;p&gt;分支管理：Git 允許創建分支，這使得團隊能夠並行開發不同的功能或修覆不同的 bug，而不會幹擾主線開發。分支可以輕松合並回主線，從而實現協作。&lt;/p&gt;
+&lt;p&gt;遠程倉庫協作：Git 可以與遠程倉庫（如 GitHub、GitLab、Bitbucket 等）集成，使得多個開發者可以協作開發項目。他們可以推送（push）自己的更改到遠程倉庫，並拉取（pull）其他人的更改，從而實現協作開發。&lt;/p&gt;
+&lt;p&gt;代碼審查：Git 的分支和提交歷史使得進行代碼審查變得更加容易。團隊成員可以通過查看提交歷史和比較不同分支之間的差異來進行代碼審查，從而確保代碼質量和一致性。&lt;/p&gt;
+&lt;p&gt;備份和恢覆：Git 可以作為項目的備份工具，因為它可以存儲項目的完整歷史記錄。即使出現意外情況，例如誤刪文件，也可以通過 Git 來恢覆文件到之前的狀態。&lt;/p&gt;
+&lt;p&gt;綜上所述，Git 是一個強大的工具，可以幫助專業人士解決內容管理問題，提高團隊的生產效率和代碼質量。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry></feed>
